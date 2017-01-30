@@ -1,6 +1,6 @@
 /* File: miditokey.c
  * Redirect f#2 g2 et g#2 in 'p' ' ' et 'n'
- * pour commander vlc avec un clavier midi.
+ * The aim is to conntrol vlc with a midi keyboard.
  *
  * Compile with:
  * gcc -lxdo -lasound miditokey.c -o miditokey
